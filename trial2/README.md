@@ -13,5 +13,7 @@ ls -al //to see all folders
 /////In order to push stuff//////
 
 git add . //adds all stuff for repo change
+
 git commit -m "random message" -m "description"
+
 git push origin master

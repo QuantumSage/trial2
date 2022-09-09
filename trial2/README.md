@@ -17,3 +17,10 @@ git add . //adds all stuff for repo change
 git commit -m "random message" -m "description"
 
 git push origin master
+
+-------------------------------------------
+
+git branch //shows all the branches and the current one
+git checkout //swith between branches
+git checkout -b feature //creates new branch where 'feature' is the name
+

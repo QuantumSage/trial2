@@ -18,6 +18,14 @@ git commit -m "random message" -m "description"
 
 git push origin master
 
+git commit -am "stuff" //adds and commits at the same time (effectively removes git add stage from already added files)
+
+git reset (README.md //unstage changes basically unadd?)
+
+git reset HEAD //resets back to previous commit (thats what head is)
+
+
+
 -------------------------------------------
 
 git branch //shows all the branches and the current one
@@ -27,3 +35,4 @@ git merge //for merging
 git diff //compares the changes
 git diff feature-readme-instructions //for specific branches
 //press q to get out of diff 
+

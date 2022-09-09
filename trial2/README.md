@@ -23,4 +23,7 @@ git push origin master
 git branch //shows all the branches and the current one
 git checkout //swith between branches
 git checkout -b feature //creates new branch where 'feature' is the name
-
+git merge //for merging 
+git diff //compares the changes
+git diff feature-readme-instructions //for specific branches
+//press q to get out of diff 
